@@ -1,0 +1,35 @@
+.post {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.post .icon {
+  width: 100%;
+  min-height: 150px;
+}
+
+.post .icon.video {
+  background: url(../images/icon-video.png) center no-repeat;
+}
+
+.post .icon.article {
+  background: url(../images/icon-article.png) center no-repeat;
+}
+
+.post .icon.file {
+  background: url(../images/icon-file.png) center no-repeat;
+}
+
+.post-date {
+  color: #999;
+  font-size: 14px;
+}
+
+.label {
+  font-size: 1em;
+}
+
+.post .title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
