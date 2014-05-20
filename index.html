@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% for post in site.posts %}
+<div class="row post">
+  <hr>
+  <div class="small-2 columns">
+    <div class="icon {{post.categories}}">
+    </div>
+  </div>
+  <div class="small-10 columns">
+    <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <h2 class="title">{{ post.title }}</h2>
+    <a class="small button" href="{{ post.link }}">Acessar</a>
+  </div>
+</div>
+{% endfor %}
