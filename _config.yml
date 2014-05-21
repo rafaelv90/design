@@ -3,8 +3,8 @@ name: Plataforma [Design]
 title: Plataforma [Design]
 email: rafael@webgoalcom.br
 description: "Base de conteúdo para a equipe de Desin da Plataforma da Webgoal."
-baseurl: ""
-url: "http://yourdomain.com"
+baseurl: "http://rafaelv90.github.io/design"
+url: ""
 
 # Build settings
 markdown: kramdown
