@@ -3,7 +3,8 @@ Design
 
 Content for design teams.
 
-To post new content, just create a new post file with the details of the content on the header. (The body of the post is NOT used, juts the meta-data)
+To post new content, just create a new post file with the details of the content on the header.
+The body of your post will be displayed as a short comment about your link.
 
 `layout: post`  
 `title:  "Your Title"`  

@@ -33,3 +33,7 @@
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
 }
+
+.post .comment {
+  color: #777;
+}
