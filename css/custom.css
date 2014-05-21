@@ -10,14 +10,17 @@
 
 .post .icon.video {
   background: url(../images/icon-video.png) center no-repeat;
+  background-size: contain;
 }
 
 .post .icon.article {
   background: url(../images/icon-article.png) center no-repeat;
+  background-size: contain;
 }
 
 .post .icon.file {
   background: url(../images/icon-file.png) center no-repeat;
+  background-size: contain;
 }
 
 .post-date {
@@ -32,6 +35,14 @@
 .post .title {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
+}
+
+/*.post a h2{
+  color: #2980B9;
+}*/
+
+.post a h2:hover{
+  color: #2980B9;
 }
 
 .post .comment {
