@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Diretrizes Visuais do Google - Parte 2"
 link: "https://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-2/9084309"
