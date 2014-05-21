@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Apple - Making the all-new Mac Pro"
-link: "https://www.youtube.com/watch?v=IbWOQWw1wkM"
-date:   2014-05-20 09:00:09
-categories: video
----
