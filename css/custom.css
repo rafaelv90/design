@@ -9,17 +9,17 @@
 }
 
 .post .icon.video {
-  background: url(../images/icon-video.png) center no-repeat;
+  background: url(../images/icon-video.png) center top no-repeat;
   background-size: contain;
 }
 
 .post .icon.article {
-  background: url(../images/icon-article.png) center no-repeat;
+  background: url(../images/icon-article.png) center top no-repeat;
   background-size: contain;
 }
 
 .post .icon.file {
-  background: url(../images/icon-file.png) center no-repeat;
+  background: url(../images/icon-file.png) center top no-repeat;
   background-size: contain;
 }
 
