@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "O (mito do) híbrido UX/UI designer"
+link: "https://medium.com/ux-user-experience-design-em-portugues/bddac756e8c6"
+date:   2014-05-23 09:00:09
+categories: article
+---
+
+Texto muito bom que ajuda a tornar mais claro o papel do UX e UI dentro de um projeto.  
+Vale a leitura para entender melhor a diferença que existe entre eles e como podem ser combinados para um produto incrível.
